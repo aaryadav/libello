@@ -54,7 +54,8 @@ const MarkCell = (props) => {
                         css={{
                             display: 'block',
                             padding: '10px 0 25px 0',
-                            width: '100%', fontSize: ""
+                            width: '100%', fontSize: "",
+                            lineHeight: "2",
                         }}>
                         <ReactMarkdown
                             remarkPlugins={[remarkGfm]}
