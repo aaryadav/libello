@@ -5,4 +5,4 @@ Code Block:
 ![code block example 2](./pic/code2.png)
 
 Markdown Block:
-(./pic/mark.png)
+![markdown block](./pic/mark.png)
